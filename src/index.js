@@ -7,7 +7,7 @@ const shoelaceCSS = new CSSStyleSheet()
 shoelaceCSS.replaceSync(shoelaceTheme)
 
 window.members = members
-const IMAGE_BASE_PATH = "https://cdn.jsdelivr.net/gh/rasselasxyz/onering"
+const IMAGE_BASE_PATH = "https://cdn.jsdelivr.net/gh/siquu/onering"
 
 const nonMember = () => html`<b>You aren't a part of the One Ring (yet).</b>`
 
