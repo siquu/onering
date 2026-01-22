@@ -14,4 +14,9 @@ export default [
     url: "https://suboptimalism.neocities.org/",
     description: "incomplete perfection; complete imperfection",
   },
-]
+  {
+    name: "saddleblasters",
+    url: "https://saddleblasters.com/",
+    description: "Where a saddle can be a saddle",
+  },
+];
