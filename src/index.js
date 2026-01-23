@@ -12,7 +12,7 @@ const IMAGE_BASE_PATH = "https://cdn.jsdelivr.net/gh/siquu/onering"
 const nonMember = () => html`<b>You aren't a part of the One Ring (yet).</b>`
 
 const ring = (members, currentIndex) => html`<div class="one-ring">
-  <a class="title" href="https://siqu.neocities.org/onering.html">
+  <a class="title" href="https://siqu.neocities.org/onering">
     <img src=${IMAGE_BASE_PATH + "/assets/ring.png"} />
     <h2>The One Ring</h2>
   </a>
