@@ -840,7 +840,7 @@
     box-shadow: var(--sl-shadow-large);
   }
 `;var $t=new CSSStyleSheet;$t.replaceSync(bt);window.members=Ee;var wt="https://cdn.jsdelivr.net/gh/siquu/onering",Wt=()=>f`<b>You aren't a part of the One Ring (yet).</b>`,Kt=(t,e)=>f`<div class="one-ring">
-  <a class="title" href="https://siqu.neocities.org/onering.html">
+  <a class="title" href="https://siqu.neocities.org/onering">
     <img src=${wt+"/assets/ring.png"} />
     <h2>The One Ring</h2>
   </a>
